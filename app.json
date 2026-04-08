@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e78d45ca-65a6-41c5-a303-72715a44e943"
+      }
+    },
+    "android": {
+      "package": "com.dhanrajmobiletesting.productivityapp"
+    }
+  }
+}
